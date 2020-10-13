@@ -42,7 +42,7 @@
     <lombok.version>1.18.8</lombok.version>
 
     <!--测试工具 Junit-->
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
 
     <!-- 公共依赖 Commons -->
     <commons-io.version>2.6</commons-io.version>
