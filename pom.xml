@@ -73,7 +73,7 @@
     <aspectjrt.version>1.9.3</aspectjrt.version>
     <aopalliance.version>1.0</aopalliance.version>
     <aspectjweaver.version>1.9.3</aspectjweaver.version>
-    <spring.version>4.3.18.RELEASE</spring.version>
+    <spring.version>5.2.22.RELEASE</spring.version>
 
     <!--MyBatis框架-->
     <mybatis.version>3.4.6</mybatis.version>
